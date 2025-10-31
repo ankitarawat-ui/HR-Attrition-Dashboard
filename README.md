@@ -1,23 +1,43 @@
 # HR-Attrition-Dashboard
-THESE THE BUSSINESS QUESTIONS FOR POWER BI 
--- -BusinessProblemQuestions  -----
 
-1.What is the overall attrition rate?
+I recently worked on an HR Analytics Dashboard to analyze and understand the key factors influencing employee attrition in an organization.
+Using Power BI, I transformed raw HR data into meaningful insights that help management take data-driven decisions for better employee retention and satisfaction.
+📊 Key KPIs:
+Total Employees: 10,005
+Employees Left (Attrition): ~2,000
+Active Employees: 8,000
+Attrition Rate: 22.48%
+Average Age: 40 years
+🧠 Business Questions Answered
 
-2.Which departments have the highest attrition and why?
+1️⃣ What is the overall attrition rate?
+2️⃣ Which departments are facing the highest attrition and why?
+3️⃣ How does job role influence attrition rates?
+4️⃣ Is distance from home related to attrition?
+5️⃣ Is overtime contributing to higher attrition?
+6️⃣ How do satisfaction scores affect retention?
+7️⃣ Are employees with poor work-life balance more likely to leave?
+8️⃣ Does frequent business travel increase attrition?
+9️⃣ Does tenure in the same role influence attrition?
+🔟 Are salary hikes effective in retaining employees?
 
-3.How does job role affect attrition rates?
+🔍 Key Insights
 
-4.Is there a link between distance from home and attrition rate?
+✨ Highest attrition seen in Cyber Security, Network Admin, and Data Science roles.
+✨ Employees with low job satisfaction and poor work-life balance are more likely to quit.
+✨ Frequent travelers and those working overtime face higher attrition.
+✨ Distance from home and limited salary growth also play a key role.
 
-5.Does overtime contribute to higher attrition?
+💡 Tools & Techniques Used
 
-6.How do job satisfaction and environment satisfaction impact retention?
+Power BI for dashboard design
 
-7.Are employees with low work-life balance more likely to quit?
+DAX measures for KPI calculations
 
-8.Are employees who travel frequently more likely to leave?
+Data modeling and relationships
 
-9.Does staying many years in the same role increase the chance of leaving?
+Interactive filters (Gender, Job Role, Job Level)
 
-10.Do salary hikes help in retaining employees?
+Visual storytelling for decision-making
+
+🎯 This project strengthened my understanding of HR data analytics, attrition modeling, and business problem-solving using Power BI.
