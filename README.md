@@ -1,7 +1,9 @@
 # HR-Attrition-Dashboard
 
-I recently worked on an HR Analytics Dashboard to analyze and understand the key factors influencing employee attrition in an organization.
-Using Power BI, I transformed raw HR data into meaningful insights that help management take data-driven decisions for better employee retention and satisfaction.
+I recently worked on an HR Analytics Dashboard to analyze and understand the key factors
+influencing employee attrition in an organization.
+Using Power BI, I transformed raw HR data into meaningful insights that help management
+take data-driven decisions for better employee retention and satisfaction.
 📊 Key KPIs:
 Total Employees: 10,005
 Employees Left (Attrition): ~2,000
