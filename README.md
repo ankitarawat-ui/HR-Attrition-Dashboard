@@ -1,6 +1,6 @@
 # HR-Attrition-Dashboard
-Firstly upload file to SQL then to Power Bi to SOLVE Bussiness Questions:
--------------- -BusinessProblemQuestions  -----
+THESE THE BUSSINESS QUESTIONS FOR POWER BI 
+-- -BusinessProblemQuestions  -----
 
 1.What is the overall attrition rate?
 
